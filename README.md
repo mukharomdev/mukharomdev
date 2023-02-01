@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m mukharomdev from indonesia
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript and devOps tech
+
 
