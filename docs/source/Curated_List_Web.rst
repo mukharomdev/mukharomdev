@@ -1,9 +1,20 @@
 ..  daftar link website pemrograman:
 
-"""""""""""""""
-KURASI
-"""""""""""""""
+"""""""""""""""""""""""""""""""
+Daftar Link Website Pemrograman
+"""""""""""""""""""""""""""""""
 
-Rust versi inggris:
+.. toctree::
+   :maxdepth: 2
+   :caption: daftar isi:
 
-- https://doc.rust-lang.org/book/
+   Rust/index
+   Javascript/index
+   Typescript/index
+   Clang/index
+   Cplus/index
+   Nodejs/index
+   Python/index
+   Assembly/index
+   
+

@@ -13,12 +13,12 @@ Welcome to mukharomdev site's !
    Home_Site
    About
    Contact
+   License
 
 
-
-feature
-==================
+.. feature
+.. ==================
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
-* :ref:`search`
+.. * :ref:`search`
