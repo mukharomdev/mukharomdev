@@ -1,3 +1,5 @@
+:orphan:
+
 ..  daftar link website pemrograman:
 
 """""""""""""""""""""""""""""""
@@ -16,5 +18,10 @@ Daftar Link Website Pemrograman
    Nodejs/index
    Python/index
    Assembly/index
+   BuildSystem/index
+   Linux/index
+   Markdown/index
+   Rst/index
+
    
 
