@@ -1,6 +1,6 @@
-""""""""
-Cplus
-""""""""
+"""""""""""""""""
+Github Workflows
+"""""""""""""""""
 
 .. toctree::
    :maxdepth: 2

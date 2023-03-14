@@ -16,6 +16,7 @@ Selamat Datang Di Website Mukharomdev !
    :caption: Contents:
 
    Home_Site
+   Article/index
    About
    Contact
    License

@@ -8,6 +8,7 @@ Daftar Link Website Pemrograman
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: daftar isi:
 
    Rust/index
@@ -22,6 +23,10 @@ Daftar Link Website Pemrograman
    Linux/index
    Markdown/index
    Rst/index
+   Jenkins/index
+   GithubWorkflows/index
+   Computer/index
+   Docker/index
 
    
 
