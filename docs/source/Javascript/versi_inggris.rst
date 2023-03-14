@@ -9,3 +9,7 @@ Official Mozilla docs
 Event loop in Javascript
 
 - http://latentflip.com/loupe/
+
+Javascript in depth
+
+- https://www.javascripttutorial.net/javascript-event-loop/
