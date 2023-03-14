@@ -29,6 +29,8 @@ Daftar Link Website Pemrograman
    Docker/index
    DataStructure/index
    DesignPattern/index
-
+   Ruby/index
+   Perl/index
+   VerConSystem/index
    
 

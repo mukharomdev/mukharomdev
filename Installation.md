@@ -4,7 +4,7 @@
 - pip3
 - virtualenv
 
-### setup environment
+## setup environment
 ```sh
 virtualenv .env
 . .env/bin/activate
@@ -33,4 +33,11 @@ atau,menggunakan php server ;
 ```
 php -S localhost:8080 -t docs/_build/html
 
+```
+
+## Check broken link
+ ...Perintah dibawah ini adalah untuk mengecek status website link masih aktif atau tidak.Jadi,pastikan ada koneksi internet yang tersambung ke komputer.Proses yang terjadi memakan waktu yang relatif lama tergantung kondisi tertentu.
+
+```sh
+make -C docs linkcheck
 ```
