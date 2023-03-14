@@ -21,9 +21,10 @@ make -C docs html
 ```sh
 virtualenv .env
 . .env/bin/activate
-pyhton3 -m http.server -d docs/_build/html
+pyhton3 -m http.server -d docs/_build/html 8000
 ```
 - default port : 8000
+- jika port 8000 tidak bisa ,ganti 8001 atau 8081 etc
 
 atau,menggunakan php server ;
 

@@ -12,4 +12,19 @@ Website ini dibuat sebagai online book untuk keperluan dokumentasi pribadi.Namun
            
             :doc:`daftar link website pemrograman<../Curated_List_Web>`
 
+
+
+
+.. image:: ./../../images/github.png
+   :height: 24
+   :width: 18
+   :alt: mukharomdev
+   :align: left
+
+| Silahkan ``clone`` source code website static ini di `github`_
+
+
 Semoga bermanfaat ...
+
+
+.. _github: https://github.com/mukharomdev/mukharomdev.git
