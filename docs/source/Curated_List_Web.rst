@@ -27,6 +27,8 @@ Daftar Link Website Pemrograman
    GithubWorkflows/index
    Computer/index
    Docker/index
+   DataStructure/index
+   DesignPattern/index
 
    
 
