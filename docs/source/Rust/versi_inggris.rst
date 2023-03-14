@@ -12,3 +12,8 @@ Official Rust Docs
 Tutorial Rust Dasar
 
 - https://www.programiz.com/rust
+
+
+Rust system programming
+
+- https://livebook.manning.com/book/rust-in-action/chapter-1/v-11/
