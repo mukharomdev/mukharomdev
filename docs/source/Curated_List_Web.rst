@@ -32,5 +32,5 @@ Daftar Link Website Pemrograman
    Ruby/index
    Perl/index
    VerConSystem/index
-   
+   Bash/index
 

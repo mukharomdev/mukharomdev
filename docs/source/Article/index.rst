@@ -2,6 +2,4 @@
 Article 
 """""""""""""""""""
 
-.. toctree::
-   :maxdepth: 2
-   
+- :doc:`pengalaman pertama kenal komputer<./contents/pengalaman_pertama>`

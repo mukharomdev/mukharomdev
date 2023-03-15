@@ -24,7 +24,30 @@ Website ini dibuat sebagai online book untuk keperluan dokumentasi pribadi.Namun
 | Silahkan ``clone`` source code website static ini di `github`_
 
 
+Jika,sudah menguasai bahasa pemrograman tertentu sesuai dengan minat.Boleh dicoba kemampuan anda dengan mengikuti test skill di website berikut ini:
+
+- `hackerrank`_
+- `freecodechamp`_
+- `coderbytes`_
+
+
 Semoga bermanfaat ...
 
 
+.. NOTE::
+	
+			Environment development :
+
+			- x86 pc
+			- GNU/Linux Debian bullseye 11
+			- Sublimetext 3
+			- Python3.9.2
+			- Sphinx v5.3.0
+			- Sphinx-rtd-theme
+			- Git v2.30.2
+			- RestructuredText a.k.a rst
+
 .. _github: https://github.com/mukharomdev/mukharomdev.git
+.. _hackerrank: https://hackerrank.com
+.. _freecodechamp: https://www.freecodechamp.org
+.. _coderbytes: https://www.coderbytes.com

@@ -3,6 +3,14 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+# import builtin library python
+import pathlib
+import sys
+import os
+sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
+
+
+
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -15,6 +23,9 @@ release = '0.0.1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+'sphinx.ext.duration',
+'sphinx.ext.doctest',
+'sphinx.ext.autodoc',
 'sphinx_rtd_theme',
 ]
 
