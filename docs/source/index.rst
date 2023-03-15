@@ -8,7 +8,7 @@
    :keywords: mukharomdev,github,dokumentasi
    
 
-Selamat Datang Di Website Mukharomdev !
+Selamat Datang Di Website Mukharomdev
 ============================================
 
 .. toctree::

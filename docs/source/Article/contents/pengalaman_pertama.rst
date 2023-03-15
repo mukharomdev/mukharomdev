@@ -6,6 +6,11 @@
 Pengalaman pertama kenal Komputer
 """"""""""""""""""""""""""""""""""
 
+.. |date| date::
+.. |time| date:: %H:%M
+
+Diposting |date| pada |time| WIB.
+
 Saya masih ingat betul,ketika pertama kali berkenalan dengan komputer sewaktu teman saya mengajak kursus komputer di kampung sebelah.Tanpa perlu diaba-aba lagi,saya langsung meng-iyakan saja.Seolah-olah ada ketertarikan yang begitu kuat.Bayangan saat itu,orang yang berkecimpung dengan komputer pasti akan menjadi seorang Hacker.Pasti IQ-nya bertambah beberapa digit di atas rata-rata.Jadi,apa boleh buat.Saya langsung meminta ijin sama orang tua.Beragam cara saya lakukan agar orang tua mau membiayai rencana saya.Hasilnya,...positif.Rencana saya pun berjalan lancar.
 
 Hari H pun tiba.Saya dan teman mendaftar disebuah lembaga kursus komputer sesuai arahan dia.Disana,kami diterima dengan baik oleh seorang staf,seorang bapak-bapak yang menurutku agak flamboyan sedikit.Setelah menyelesaikan administrasi pendaftaran,biaya administrasinya sebesar 160 ribu rupiah.Kami berdua diterima.Pikir-pikir soal biayanya,jumlah uang segitu,zaman itu bagi saya sudah sangat berarti.Namun karena sudah termakan pikiran,bahwa belajar komputer memang butuh biaya ekstra.Lagipula,zaman itu masih jarang orang yang punya komputer.Jadi biaya segitu masih layak karena nantinya setelah bisa komputer bisa untuk melamar pekerjaan,....pikir saya.Sehabis urusan administrasi beres,bapak flamboyan itu memberi tahu kalau jadwal kursus bisa dimulai esok hari.
