@@ -28,7 +28,7 @@ Jika,sudah menguasai bahasa pemrograman tertentu sesuai dengan minat.Boleh dicob
 
 - `hackerrank`_
 - `freecodechamp`_
-- `coderbytes`_
+- `coderbyte`_
 
 
 Semoga bermanfaat ...
@@ -50,4 +50,4 @@ Semoga bermanfaat ...
 .. _github: https://github.com/mukharomdev/mukharomdev.git
 .. _hackerrank: https://hackerrank.com
 .. _freecodechamp: https://www.freecodechamp.org
-.. _coderbytes: https://www.coderbytes.com
+.. _coderbyte: https://www.coderbyte.com
