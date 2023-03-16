@@ -13,3 +13,7 @@ Tutorial sphinx and rst file
 Docutils docs
 
 - https://docutils.sourceforge.io/docs/index.html
+
+MyST Parser
+
+- https://myst-parser.readthedocs.io/en/latest/index.html

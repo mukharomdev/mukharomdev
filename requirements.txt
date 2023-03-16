@@ -1,2 +1,5 @@
 sphinx
 sphinx-rtd-theme
+myst-parser
+linkify
+linkify-it-py
