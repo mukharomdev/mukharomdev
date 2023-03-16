@@ -56,7 +56,10 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
-
+# latex engine
+# latex_engine=[
+# 'texlive',
+# ]
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 

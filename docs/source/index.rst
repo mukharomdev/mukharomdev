@@ -6,7 +6,20 @@
 .. meta::
    :description: website mukharomdev
    :keywords: mukharomdev,github,dokumentasi
-   
+
+.. raw:: html
+
+         <!-- Google tag (gtag.js) -->
+         <script async src="https://www.googletagmanager.com/gtag/js?id=G-30QQ1QRJ30"></script>
+         <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+
+           gtag('config', 'G-30QQ1QRJ30');
+         </script>
+
+         
 
 Selamat Datang Di Website Mukharomdev
 ============================================

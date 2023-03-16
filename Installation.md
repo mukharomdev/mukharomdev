@@ -21,7 +21,7 @@ make -C docs html
 ```sh
 virtualenv .env
 . .env/bin/activate
-pyhton3 -m http.server -d docs/_build/html 8000
+python3 -m http.server -d docs/_build/html 8001
 ```
 - default port : 8000
 - jika port 8000 tidak bisa ,ganti 8001 atau 8081 etc
@@ -40,4 +40,13 @@ php -S localhost:8080 -t docs/_build/html
 
 ```sh
 make -C docs linkcheck
+```
+
+## Clean 
+
+.... untuk membersihkan hasil build terakhir,perintahnya:
+
+```sh
+make -C docs clean
+
 ```
