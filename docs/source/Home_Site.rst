@@ -46,6 +46,13 @@ Semoga bermanfaat ...
 			- Sphinx-rtd-theme
 			- Git v2.30.2
 			- RestructuredText a.k.a rst
+			
+			Feature :
+
+			- Google analitic
+			- Goole search console
+			- robot.txt
+			- sitemap
 
 .. _github: https://github.com/mukharomdev/mukharomdev.git
 .. _hackerrank: https://hackerrank.com
