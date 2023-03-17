@@ -10,6 +10,7 @@ Official Ruby Docs
 RubyGems (package manager ruby) docs
 
 - https://guides.rubygems.org/
+- https://guides.rubygems.org/make-your-own-gem/
 
 - https://www.digitalocean.com/community/tutorials/how-to-work-with-the-ruby-package-manager-rubygems-getting-started
   
