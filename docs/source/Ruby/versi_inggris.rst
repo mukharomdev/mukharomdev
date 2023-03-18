@@ -17,3 +17,7 @@ RubyGems (package manager ruby) docs
 Tutorial ruby
 
 - https://pine.fm/LearnToProgram/
+  
+Tutorial Rakefile
+
+- https://ruby.github.io/rake/doc/rakefile_rdoc.html

@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   # platform
   # s.platform = Gem::Platform.local
   # s.bindir = 'bin'
-  # s.executables << 'rake'
+  s.executables << 'basicruby'
   s.post_install_message = "Terima kasih sudah Menginstall!"
 end 
