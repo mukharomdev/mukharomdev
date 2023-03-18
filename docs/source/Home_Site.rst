@@ -42,8 +42,8 @@ Semoga bermanfaat ...
 			- GNU/Linux Debian bullseye 11
 			- Sublimetext 3
 			- Python3.9.2
-			- Sphinx v5.3.0
-			- Sphinx-rtd-theme
+			- Sphinx 
+			- Furo theme
 			- Git v2.30.2
 			- RestructuredText a.k.a rst
 			
