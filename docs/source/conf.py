@@ -63,6 +63,9 @@ myst_enable_extensions = [
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 html_static_path = ['_static']
 html_extra_path = ["_html"]
+html_title = 'mukharomdev'
+html_logo = './../../images/mukharomdev.jpg'
+html_favicon = './../../images/favicon_io/favicon.ico'

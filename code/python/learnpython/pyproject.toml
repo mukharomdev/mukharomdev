@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learnpython"
+authors = [
+    {name = "mukharomdev", email = "mukharomdev@gmail.com"},
+]
+description = "Paket python ini hanya sebagai template"
+readme = "README.rst"
+requires-python = ">=3.8"
+keywords = ["learn", "python"]
+license = {text = "MIT license"}
+classifiers = [
+    "Framework :: Django",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "requests",
+    'importlib-metadata; python_version >="3.8"',
+]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+pdf = ["ReportLab>=1.2", "RXP"]
+rest = ["docutils>=0.3", "pack ==1.1, ==1.3"]
+
+[project.scripts]
+my-script = "learn_python.module:function"
