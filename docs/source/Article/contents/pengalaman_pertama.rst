@@ -9,7 +9,9 @@ Pengalaman pertama kenal Komputer
 .. |date| date::
 .. |time| date:: %H:%M
 
-Diposting |date| pada |time| WIB.
+.. Diposting |date| pada |time| WIB.
+.. Update |date| pada |time| WIB
+Diposting 2023-03-18 pada 22:59 WIB.
 
 Saya masih ingat betul,ketika pertama kali berkenalan dengan komputer sewaktu teman saya mengajak kursus komputer di kampung sebelah.Tanpa perlu diaba-aba lagi,saya langsung meng-iyakan saja.Seolah-olah ada ketertarikan yang begitu kuat.Bayangan saat itu,orang yang berkecimpung dengan komputer pasti akan menjadi seorang Hacker.Pasti IQ-nya bertambah beberapa digit di atas rata-rata.Jadi,apa boleh buat.Saya langsung meminta ijin sama orang tua.Beragam cara saya lakukan agar orang tua mau membiayai rencana saya.Hasilnya,...positif.Rencana saya pun berjalan lancar.
 
