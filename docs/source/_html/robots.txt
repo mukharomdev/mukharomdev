@@ -3,10 +3,4 @@ User-agent: *
 
 Disallow: /
 
-Allow: /en/stable
-
-Allow: /en/latest
-
-Allow: /en/develop
-
-Sitemap: https://mukharomdev.github.io/mukharomdev/en/latest/sitemap-index.xml
+Sitemap: https://mukharomdev.github.io/mukharomdev/sitemap-index.xml
