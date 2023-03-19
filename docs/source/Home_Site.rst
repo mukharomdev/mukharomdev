@@ -56,5 +56,5 @@ Semoga bermanfaat ...
 
 .. _github: https://github.com/mukharomdev/mukharomdev.git
 .. _hackerrank: https://hackerrank.com
-.. _freecodechamp: https://www.freecodecamp.org
+.. _freecodecamp: https://www.freecodecamp.org
 .. _coderbyte: https://www.coderbyte.com
