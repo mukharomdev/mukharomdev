@@ -19,3 +19,7 @@ Tutorial python
 Explanation about Why CPython written in C language
 
 - https://realpython.com/cpython-source-code-guide/
+  
+Explanation about Decorator
+
+- https://www.freecodecamp.org/news/python-decorators-explained-with-examples/
