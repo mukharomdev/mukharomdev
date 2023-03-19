@@ -1,19 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>https://mukharomdev.github.io/mukharomdev/en/stable/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    </url>
-    <url>
-        <loc>https://mukharomdev.github.io/mukharomdev/en/latest/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://mukharomdev.github.io/mukharomdev/en/develop/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.1</priority>
-    </url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://mukharomdev.github.io/Home_Site.html</loc>
+  <priority>0.1</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/Article/index.html</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/About.html</loc>
+  <priority>0.2</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/Contact.html</loc>
+  <priority>0.3</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/License.html</loc>
+  <priority>0.7</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/Home_Site.html#introduction</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc>https://mukharomdev.github.io/Article/index.html#curhat</loc>
+  <priority>0.4</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+<url>
+  <loc></loc>
+  <priority>0.7</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-19</lastmod>
+</url>
+</urlset></urlset>

@@ -27,7 +27,7 @@ Website ini dibuat sebagai online book untuk keperluan dokumentasi pribadi.Namun
 Jika,sudah menguasai bahasa pemrograman tertentu sesuai dengan minat.Boleh dicoba kemampuan anda dengan mengikuti test skill di website berikut ini:
 
 - `hackerrank`_
-- `freecodechamp`_
+- `freecodecamp`_
 - `coderbyte`_
 
 
@@ -56,5 +56,5 @@ Semoga bermanfaat ...
 
 .. _github: https://github.com/mukharomdev/mukharomdev.git
 .. _hackerrank: https://hackerrank.com
-.. _freecodechamp: https://www.freecodechamp.org
+.. _freecodechamp: https://www.freecodecamp.org
 .. _coderbyte: https://www.coderbyte.com
