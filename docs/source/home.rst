@@ -10,7 +10,7 @@ Website ini dibuat sebagai online book untuk keperluan dokumentasi pribadi.Namun
 
 .. NOTE::
            
-            :doc:`daftar link website pemrograman<../Curated_List_Web>`
+            :doc:`daftar link website pemrograman<../daftar-link-pemrograman>`
 
 
 
@@ -18,10 +18,12 @@ Website ini dibuat sebagai online book untuk keperluan dokumentasi pribadi.Namun
 .. image:: ./../../images/github.png
    :height: 24
    :width: 18
-   :alt: mukharomdev
+   :alt: github
    :align: left
 
-| Silahkan ``clone`` source code website static ini di `github`_
+
+
+Silahkan ``clone`` source code website static ini di `github`_
 
 
 Jika,sudah menguasai bahasa pemrograman tertentu sesuai dengan minat.Boleh dicoba kemampuan anda dengan mengikuti test skill di website berikut ini:

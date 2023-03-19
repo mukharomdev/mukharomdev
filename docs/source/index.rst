@@ -15,16 +15,37 @@
 Selamat Datang Di Website Mukharomdev
 ============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   Home_Site
+Rasulullah SAW bersabda:
+
+ أُطْلُبِ الْعِلْمَ مِنَ الْمَهْدِ إِلَى اللَّحْدِ 
+
+ Uthlubul 'ilma minal mahdi ilal lakhdi.
+
+ Artinya: “Tuntutlah ilmu dari buaian (bayi) hingga liang lahat.”
+
+
+.. image:: ./../../images/boliviainteligente-p2BCAH2aDkk-unsplash.jpg
+
+
+
+
+
+|    “Everybody in this country should learn how to program a computer. 
+|     Because it teaches you how to think.”
+|    — Steve Jobs
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   :hidden:
+
+   home
    Article/index
-   About
-   Contact
+   about
+   contact
    Webmasters/index
-   License
+   license
 
 
 .. feature
