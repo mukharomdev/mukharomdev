@@ -6,6 +6,8 @@
 Daftar Link Website Pemrograman
 """""""""""""""""""""""""""""""
 
+Daftar link ini hasil kurasi saya selama belajar pemrograman,daripada terlupakan maka saya rekap di website ini.Kedepannya bisa jadi akan bertambah,jika memang menemukan situs yang layak untuk dijadikan bahan belajar.
+
 .. toctree::
    :maxdepth: 1
    :glob:
