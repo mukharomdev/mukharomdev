@@ -24,11 +24,11 @@ def my_function():
 
 # Assign the function to a variable without parenthesis. We don't want to execute the function.
 
-description = my_function
+# description = my_function
 
 # Accessing the function from the variable I assigned it to.
 
-print(description())
+# print(description())
 
 # Output
 
@@ -40,17 +40,17 @@ print(description())
 ######################################################
 """
 
-def outer_function():
+def outer_function1():
 
-    def inner_function():
+    def inner_function1():
 
         print('I came from the inner function.')
 
     # Executing the inner function inside the outer function.
-    inner_function()
+    inner_function1()
 
 
-outer_function()
+# outer_function1()
 
 # Output
 
@@ -75,16 +75,16 @@ NameError: name 'inner_function' is not defined
 ######################################################################
 """
 
-def outer_function():
+def outer_function2():
     '''Assign task to student'''
 
     task = 'Read Python book chapter 3.'
-    def inner_function():
+    def inner_function2():
         print(task)
-    return inner_function
+    return inner_function2
 
-homework = outer_function()
-homework()
+# homework = outer_function2()
+# homework()
 
 # Output
 
@@ -106,7 +106,7 @@ def action():
     print('I am going to the store buy you something nice.')
 # Calling the friendly_reminder function with the action function used as an argument.
 
-friendly_reminder(action)
+# friendly_reminder(action)
 
 # Output
 
@@ -169,7 +169,7 @@ def daily_backup():
     print('Daily backup job has finished.')   
 
      
-daily_backup()
+# daily_backup()
 
 # Output
 '''
@@ -215,8 +215,8 @@ Decorators hide the function they are decorating. If I check the __name__ or __d
 
 '''
 
-print(my_func.__name__)
-print(my_func.__doc__)
+# print(my_func.__name__)
+# print(my_func.__doc__)
 
 # Output
 '''
@@ -246,8 +246,8 @@ def my_func(my_args):
 Now I receive the output I am expecting.
 '''
 
-print(my_func.__name__)
-print(my_func.__doc__)
+# print(my_func.__name__)
+# print(my_func.__doc__)
 
 # Output
 '''
@@ -318,10 +318,10 @@ def make_list4():
         my_list = my_list + [item]
 
 
-print(make_list1())
-print(make_list2())
-print(make_list3())
-print(make_list4())
+# print(make_list1())
+# print(make_list2())
+# print(make_list3())
+# print(make_list4())
 
 # Output
 '''
@@ -391,12 +391,12 @@ def get_coin_price(limit):
         return f"${float(text['bpi']['USD']['rate_float']):.2f}"
 
 
-print(get_coin_price(5))
-print(get_coin_price(5))
-print(get_coin_price(5))
-print(get_coin_price(5))
-print(get_coin_price(5))
-print(get_coin_price(5))
+# print(get_coin_price(5))
+# print(get_coin_price(5))
+# print(get_coin_price(5))
+# print(get_coin_price(5))
+# print(get_coin_price(5))
+# print(get_coin_price(5))
 
 '''
 # Output

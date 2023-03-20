@@ -12,3 +12,11 @@ pip install --upgrade build
 ```sh
 python -m build
 ```
+
+# Install
+
+| ...pindah ke root directori code/python :
+
+```sh
+python -m pip install ./learnpython
+```
