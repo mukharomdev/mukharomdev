@@ -2,6 +2,9 @@
 versi inggris
 """""""""""""""
 
+Documentation
+--------------
+
 Official Python Docs
 
 - https://www.python.org/
@@ -23,3 +26,11 @@ Explanation about Why CPython written in C language
 Explanation about Decorator
 
 - https://www.freecodecamp.org/news/python-decorators-explained-with-examples/
+  
+
+Github Repository
+------------------
+
+Design Pattern
+
+- https://github.com/JakubVojvoda/design-patterns-python.git
