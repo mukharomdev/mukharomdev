@@ -1,22 +1,28 @@
-# prequisites
+prequisites
+-------------
 
-``
-pip install --upgrade setuptools
-pip install --upgrade build
-``
+.. code::
+
+			pip install --upgrade setuptools
+			pip install --upgrade build
 
 
 
-# Build
 
-``
-python -m build
-``
+Build
+---------
 
-# Install
+.. code::
+
+			python -m build
+
+
+Install
+----------
 
 | ...pindah ke root directori code/python :
 
-``
-python -m pip install ./learnpython
-``
+.. code::
+
+			python -m pip install ./learnpython
+
