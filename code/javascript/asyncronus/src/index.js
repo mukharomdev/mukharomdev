@@ -4,9 +4,10 @@ import {AsyncAwait} from './async/async-await.js'
 import {Callback,ArgumentCallback} from './callback/callback.js'
 
 // deklaration main
-function main(){
+export default function main(){
     
 	let promis = promise(3);
+	
 	promis
 		  .then(num =>num)
 		  .then(result=>{
@@ -23,14 +24,7 @@ function main(){
 
     let callback = Callback(3,3,ArgumentCallback)
     console.log(callback)
-
-   
-   
-
 }
 
 
 
-// execute main
-// 
-main();
