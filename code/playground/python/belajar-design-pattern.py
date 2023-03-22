@@ -1,6 +1,10 @@
 
-from learnpython.design_pattern.creational import AbstractFactory 
-from AbstractFactory import ConcreteFactoryX,ConcreteFactoryY
+from learnpython.design_pattern.creational import AbstractFactory
+
+# creational - AbstractFactory
+
+ConcreteFactoryX = AbstractFactory.ConcreteFactoryX
+ConcreteFactoryY = AbstractFactory.ConcreteFactoryY
 
 
 
@@ -16,4 +20,4 @@ if __name__ == '__main__':
    p2 = factoryY.createProductA()
    print("Product: " + p2.getName())
   
-  
+   
