@@ -8,9 +8,13 @@ ini hanya source code untuk memahami konsep asyncronus di javascript
 
 
 ```sh
-npm install ./asyncronus
+npm install ./asyncronus -g
 ```
 
 # Penggunaan
 
-lihat folder code/playground/javascript
+lihat folder code/playground/javascript karena module ini bersifat local maka perintah untuk menggunakannya:
+
+```sh
+npm link asyncronus
+```
