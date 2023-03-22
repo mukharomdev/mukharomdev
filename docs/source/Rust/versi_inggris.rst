@@ -3,6 +3,7 @@ versi inggris
 """""""""""""""
 
 Official Rust Docs
+-------------------
 
 - https://doc.rust-lang.org/book/
 - https://www.rust-lang.org/
@@ -21,15 +22,18 @@ Official Rust Docs
 - https://doc.rust-lang.org/nightly/unstable-book/index.html
 
 Github repo
+-------------
 
 - https://github.com/rust-lang/rustlings.git
 
 
 Tutorial Rust Dasar
+--------------------
 
 - https://www.programiz.com/rust
 
 
 Rust system programming
+------------------------
 
 - https://livebook.manning.com/book/rust-in-action/chapter-1/v-11/
