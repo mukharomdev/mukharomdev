@@ -41,6 +41,6 @@ class Adapter(Target, Adaptee):
     return self.specificRequest()  
 
 
-if __name__ == "__main__":
-  t = Adapter()
-  t.request()
+# if __name__ == "__main__":
+#   t = Adapter()
+#   t.request()

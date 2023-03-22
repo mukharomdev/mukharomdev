@@ -42,7 +42,7 @@ class Proxy(Subject):
     self._subject.request()
 
 
-if __name__ == "__main__":
-  proxy = Proxy()
-  proxy.request()
-  
+# if __name__ == "__main__":
+#   proxy = Proxy()
+#   proxy.request()
+#   

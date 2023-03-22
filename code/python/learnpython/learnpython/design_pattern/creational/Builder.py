@@ -101,20 +101,20 @@ class Director:
     self._builder.buildPartC()
       
 
-if __name__ == "__main__":
-  builderX = ConcreteBuilderX()
-  builderY = ConcreteBuilderY()  
+# if __name__ == "__main__":
+#   builderX = ConcreteBuilderX()
+#   builderY = ConcreteBuilderY()  
   
-  director = Director()
-  director.set(builderX)  
-  director.construct()
+#   director = Director()
+#   director.set(builderX)  
+#   director.construct()
   
-  product1 = director.get()
-  print("1st product parts: " + product1.get())
+#   product1 = director.get()
+#   print("1st product parts: " + product1.get())
   
-  director.set(builderY)  
-  director.construct()
+#   director.set(builderY)  
+#   director.construct()
   
-  product2 = director.get()
-  print("2nd product parts: " + product2.get())
-                                                                                        
+#   product2 = director.get()
+#   print("2nd product parts: " + product2.get())
+#                                                                                         

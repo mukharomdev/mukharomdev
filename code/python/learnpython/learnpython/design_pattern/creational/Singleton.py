@@ -36,6 +36,6 @@ class Class:
     print("This is singleton.")
  
 
-if __name__ == "__main__": 
-  singleton = Class.get()
-  singleton.tell()                                                                                       
+# if __name__ == "__main__": 
+#   singleton = Class.get()
+#   singleton.tell()                                                                                       

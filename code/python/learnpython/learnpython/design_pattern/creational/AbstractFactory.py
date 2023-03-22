@@ -82,15 +82,15 @@ class ConcreteFactoryY(AbstractFactory):
     return ConcreteProductBY()
 
   
-if __name__ == "__main__":
-  factoryX = ConcreteFactoryX()
-  factoryY = ConcreteFactoryY()
+# if __name__ == "__main__":
+#   factoryX = ConcreteFactoryX()
+#   factoryY = ConcreteFactoryY()
   
-  p1 = factoryX.createProductA()
-  print("Product: " + p1.getName())
+#   p1 = factoryX.createProductA()
+#   print("Product: " + p1.getName())
   
-  p2 = factoryY.createProductA()
-  print("Product: " + p2.getName())
+#   p2 = factoryY.createProductA()
+#   print("Product: " + p2.getName())
   
   
   

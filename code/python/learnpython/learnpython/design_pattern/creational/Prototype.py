@@ -51,11 +51,11 @@ class Client:
     return self._types[index].clone()     
 
 
-if __name__ == "__main__":
-  client = Client()
+# if __name__ == "__main__":
+#   client = Client()
   
-  prototype = client.make(0)
-  print(prototype.getType())
+#   prototype = client.make(0)
+#   print(prototype.getType())
   
-  prototype = client.make(1)
-  print(prototype.getType())                                                                                         
+#   prototype = client.make(1)
+#   print(prototype.getType())                                                                                         

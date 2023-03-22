@@ -64,10 +64,10 @@ class Leaf(Component):
     print("Leaf " + str(self._idx) + " operation.")
       
 
-if __name__ == "__main__":
-  composite = Composite()
+# if __name__ == "__main__":
+#   composite = Composite()
   
-  for i in range(5):
-    composite.add(Leaf(i))
+#   for i in range(5):
+#     composite.add(Leaf(i))
   
-  composite.operation()    
+#   composite.operation()    

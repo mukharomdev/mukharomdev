@@ -79,19 +79,19 @@ class ConcreteSubject(Subject):
     self._state = state
 
 
-if __name__ == "__main__":  
-  observer1 = ConcreteObserver(1)
-  observer2 = ConcreteObserver(2)
+# if __name__ == "__main__":  
+#   observer1 = ConcreteObserver(1)
+#   observer2 = ConcreteObserver(2)
 
-  print("Observer 1 state: " + str(observer1.getState()))
-  print("Observer 2 state: " + str(observer2.getState()))
+#   print("Observer 1 state: " + str(observer1.getState()))
+#   print("Observer 2 state: " + str(observer2.getState()))
 
-  subject = ConcreteSubject()
-  subject.attach(observer1)
-  subject.attach(observer2)
+#   subject = ConcreteSubject()
+#   subject.attach(observer1)
+#   subject.attach(observer2)
 
-  subject.setState(10)
-  subject.notify()
+#   subject.setState(10)
+#   subject.notify()
 
-  print("Observer 1 state: " + str(observer1.getState()))
-  print("Observer 2 state: " + str(observer2.getState()))
+#   print("Observer 1 state: " + str(observer1.getState()))
+#   print("Observer 2 state: " + str(observer2.getState()))

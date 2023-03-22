@@ -52,14 +52,14 @@ class Context:
     self._state.handle()
 
 
-if __name__ == "__main__":
-  stateA = ConcreteStateA()
-  stateB = ConcreteStateB()
+# if __name__ == "__main__":
+#   stateA = ConcreteStateA()
+#   stateB = ConcreteStateB()
   
-  context = Context()
+#   context = Context()
   
-  context.setState(stateA)
-  context.request()
+#   context.setState(stateA)
+#   context.request()
 
-  context.setState(stateB)
-  context.request()
+#   context.setState(stateB)
+#   context.request()

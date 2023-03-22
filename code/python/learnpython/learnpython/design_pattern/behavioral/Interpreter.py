@@ -62,20 +62,20 @@ class NonterminalExpression(AbstractExpression):
 
 # An example of very simple expression tree
 # that corresponds to expression (A AND B)
-if __name__ == "__main__":
-  A = TerminalExpression("A")
-  B = TerminalExpression("B")
-  exp = NonterminalExpression(A, B)
+# if __name__ == "__main__":
+#   A = TerminalExpression("A")
+#   B = TerminalExpression("B")
+#   exp = NonterminalExpression(A, B)
 
-  context = Context()
-  context.set("A", True)
-  context.set("B", True)
+#   context = Context()
+#   context.set("A", True)
+#   context.set("B", True)
 
-  print(str(context.get("A")) + " AND " + str(context.get("B")), end = "" )
-  print(" = " + str(exp.interpret(context)))
+#   print(str(context.get("A")) + " AND " + str(context.get("B")), end = "" )
+#   print(" = " + str(exp.interpret(context)))
 
-  context.set("A", True)
-  context.set("B", False)
+#   context.set("A", True)
+#   context.set("B", False)
 
-  print(str(context.get("A")) + " AND " + str(context.get("B")), end = "" )
-  print(" = " + str(exp.interpret(context)))
+#   print(str(context.get("A")) + " AND " + str(context.get("B")), end = "" )
+#   print(" = " + str(exp.interpret(context)))

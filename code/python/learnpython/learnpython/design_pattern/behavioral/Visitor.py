@@ -74,16 +74,16 @@ class ConcreteElementB(Element):
     visitor.visitElementB(self)
     
 
-if __name__ == "__main__":
-  elementA = ConcreteElementA()
-  elementB = ConcreteElementB()
+# if __name__ == "__main__":
+#   elementA = ConcreteElementA()
+#   elementB = ConcreteElementB()
   
-  visitor1 = ConcreteVisitor1()
-  visitor2 = ConcreteVisitor2()
+#   visitor1 = ConcreteVisitor1()
+#   visitor2 = ConcreteVisitor2()
   
-  elementA.accept(visitor1)
-  elementA.accept(visitor2)
+#   elementA.accept(visitor1)
+#   elementA.accept(visitor2)
   
-  elementB.accept(visitor1)
-  elementB.accept(visitor2)
-  
+#   elementB.accept(visitor1)
+#   elementB.accept(visitor2)
+#   

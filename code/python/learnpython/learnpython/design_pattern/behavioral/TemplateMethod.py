@@ -41,6 +41,6 @@ class ConcreteClass(AbstractClass):
     print("Primitive operation 2")
 
 
-if __name__ == "__main__":
-  tm = ConcreteClass()
-  tm.templateMethod()
+# if __name__ == "__main__":
+#   tm = ConcreteClass()
+#   tm.templateMethod()

@@ -56,11 +56,11 @@ class ConcreteCreator(Creator):
     return ConcreteProductB()
   
   
-if __name__ == "__main__":
-  creator = ConcreteCreator()
+# if __name__ == "__main__":
+#   creator = ConcreteCreator()
   
-  p1 = creator.createProductA()
-  print("Product: " + p1.getName())
+#   p1 = creator.createProductA()
+#   print("Product: " + p1.getName())
   
-  p2 = creator.createProductB()
-  print("Product: " + p2.getName())
+#   p2 = creator.createProductB()
+#   print("Product: " + p2.getName())

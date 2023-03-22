@@ -45,7 +45,7 @@ class Facade:
     self._subC.suboperation()
 
 
-if __name__ == "__main__":
-  facade = Facade()
-  facade.operation1()
-  facade.operation2()
+# if __name__ == "__main__":
+#   facade = Facade()
+#   facade.operation1()
+#   facade.operation2()

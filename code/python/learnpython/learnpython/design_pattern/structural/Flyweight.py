@@ -60,8 +60,8 @@ class FlyweightFactory:
     return self._flies.get(key)
 
 
-if __name__ == "__main__":
-  factory = FlyweightFactory()
+# if __name__ == "__main__":
+#   factory = FlyweightFactory()
 
-  factory.getFlyweight(1).operation()
-  factory.getFlyweight(2).operation()
+#   factory.getFlyweight(1).operation()
+#   factory.getFlyweight(2).operation()

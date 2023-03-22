@@ -65,8 +65,8 @@ class ConcreteDecoratorB(Decorator):
     print("Decorator B")
 
 
-if __name__ == "__main__":
-  component = ConcreteDecoratorA(
-        ConcreteDecoratorB( ConcreteComponent() ) )
+# if __name__ == "__main__":
+#   component = ConcreteDecoratorA(
+#         ConcreteDecoratorB( ConcreteComponent() ) )
               
-  component.operation()
+#   component.operation()

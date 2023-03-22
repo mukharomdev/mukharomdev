@@ -50,10 +50,10 @@ class Iterator:
       raise StopIteration()
 
 
-if __name__ == "__main__": 
-  aggregate = Aggregate()  
-  aggregate.set([10,20,30,40,50])
+# if __name__ == "__main__": 
+#   aggregate = Aggregate()  
+#   aggregate.set([10,20,30,40,50])
   
-  for value in list(aggregate):
-    print("Item value: " + str(value))
-  
+#   for value in list(aggregate):
+#     print("Item value: " + str(value))
+#   

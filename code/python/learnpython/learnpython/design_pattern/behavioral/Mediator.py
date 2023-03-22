@@ -69,16 +69,16 @@ class ConcreteMediator(Mediator):
         colleague.receive(message)
 
 
-if __name__ == "__main__":
-  mediator = ConcreteMediator()
+# if __name__ == "__main__":
+#   mediator = ConcreteMediator()
 
-  c1 = ConcreteColleague(mediator, 1)
-  c2 = ConcreteColleague(mediator, 2)
-  c3 = ConcreteColleague(mediator, 3)
+#   c1 = ConcreteColleague(mediator, 1)
+#   c2 = ConcreteColleague(mediator, 2)
+#   c3 = ConcreteColleague(mediator, 3)
 
-  mediator.add(c1)
-  mediator.add(c2)
-  mediator.add(c3)
+#   mediator.add(c1)
+#   mediator.add(c2)
+#   mediator.add(c3)
 
-  c1.send("Hi!");
-  c3.send("Hello!");
+#   c1.send("Hi!");
+#   c3.send("Hello!");

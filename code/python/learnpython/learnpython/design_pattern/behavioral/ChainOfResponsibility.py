@@ -54,10 +54,10 @@ class ConcreteHandler2(Handler):
       super().handleRequest()
 
 
-if __name__ == "__main__":
-  handler1 = ConcreteHandler1()
-  handler2 = ConcreteHandler2()
+# if __name__ == "__main__":
+#   handler1 = ConcreteHandler1()
+#   handler2 = ConcreteHandler2()
   
-  handler1.setHandler(handler2)
-  handler1.handleRequest()
-  
+#   handler1.setHandler(handler2)
+#   handler1.handleRequest()
+#   

@@ -65,17 +65,17 @@ class CareTaker:
     self._history.pop()
 
 
-if __name__ == "__main__":
-  originator = Originator()
-  caretaker = CareTaker(originator)
+# if __name__ == "__main__":
+#   originator = Originator()
+#   caretaker = CareTaker(originator)
 
-  originator.setState(1)
-  caretaker.save()
+#   originator.setState(1)
+#   caretaker.save()
 
-  originator.setState(2)
-  caretaker.save()
+#   originator.setState(2)
+#   caretaker.save()
 
-  originator.setState(3)
-  caretaker.undo()
+#   originator.setState(3)
+#   caretaker.undo()
 
-  print("Actual state is " + str(originator.getState()) + ".")
+#   print("Actual state is " + str(originator.getState()) + ".")

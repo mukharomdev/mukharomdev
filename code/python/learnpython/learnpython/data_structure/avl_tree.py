@@ -111,16 +111,16 @@ class AVL_Tree:
 
 # menjalankan avl tree
 
-tree_saya = AVL_Tree()
-root = None
+# tree_saya = AVL_Tree()
+# root = None
 
-root = tree_saya.insert(root, 10)
-root = tree_saya.insert(root, 20)
-root = tree_saya.insert(root, 30)
-root = tree_saya.insert(root, 40)
-root = tree_saya.insert(root, 50)
-root = tree_saya.insert(root, 25)
+# root = tree_saya.insert(root, 10)
+# root = tree_saya.insert(root, 20)
+# root = tree_saya.insert(root, 30)
+# root = tree_saya.insert(root, 40)
+# root = tree_saya.insert(root, 50)
+# root = tree_saya.insert(root, 25)
 
-print("lintasan preorder dari pohon avl yang dibangun adalah ")
-tree_saya.preOrder(root)
-print()
+# print("lintasan preorder dari pohon avl yang dibangun adalah ")
+# tree_saya.preOrder(root)
+# print()

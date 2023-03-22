@@ -54,10 +54,10 @@ class Invoker:
       self._command.execute()
 
 
-if __name__ == "__main__":
-  receiver = Receiver()
-  command = ConcreteCommand(receiver)
+# if __name__ == "__main__":
+#   receiver = Receiver()
+#   command = ConcreteCommand(receiver)
 
-  invoker = Invoker()
-  invoker.set(command)
-  invoker.confirm()
+#   invoker = Invoker()
+#   invoker.set(command)
+#   invoker.confirm()

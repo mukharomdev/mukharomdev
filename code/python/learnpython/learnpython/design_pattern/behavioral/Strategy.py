@@ -54,8 +54,8 @@ class Context:
     self._strategy.algorithmInterface()
 
 
-if __name__ == "__main__":
-  strategy = ConcreteStrategyA()
+# if __name__ == "__main__":
+#   strategy = ConcreteStrategyA()
     
-  context = Context(strategy)
-  context.contextInterface()
+#   context = Context(strategy)
+#   context.contextInterface()

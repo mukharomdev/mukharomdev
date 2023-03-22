@@ -41,9 +41,9 @@ class Bridge:
     self._implementor.action()
 
 
-if __name__ == "__main__":
-  bridge = Bridge(ConcreteImplementorA())
-  bridge.operation()
+# if __name__ == "__main__":
+#   bridge = Bridge(ConcreteImplementorA())
+#   bridge.operation()
   
-  bridge = Bridge(ConcreteImplementorB())
-  bridge.operation()
+#   bridge = Bridge(ConcreteImplementorB())
+#   bridge.operation()
