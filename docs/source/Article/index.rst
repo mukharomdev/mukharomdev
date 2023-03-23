@@ -8,7 +8,7 @@ Curhat
 - :doc:`pengalaman pertama kenal komputer<./contents/pengalaman_pertama>`
 
 
-Tutorial
--------------------
+Seputar Pemrograman
+--------------------
 
 Lagi mikir???
