@@ -1,0 +1,4 @@
+include yorishflask/schema.sql
+graft yorishflask/static
+graft yorishflask/templates
+global-exclude *.pyc
