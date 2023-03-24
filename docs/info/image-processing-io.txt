@@ -1,0 +1,18 @@
+IMAGE FILE I/O REQUIREMENTS
+
+
+
+Line
+0		char *in_name, *out_name;
+1		short **the_image;
+2 		long height, width;
+
+3 		create_image_file(in_name, out_name);
+4		get_image_size(in_name, &height, &width);
+5		the_image = allocate_image_array(height, width);
+6		read_image_array(in_name, the_image);
+
+7 		call an image processing routine
+
+8 		write_image_array(out_name, the_image);
+9		free_image_array(the_image, height);
