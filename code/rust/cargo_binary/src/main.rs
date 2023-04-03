@@ -1,3 +1,5 @@
+mod tambah;
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}",tambah::Add_tambah(5,5));
 }
