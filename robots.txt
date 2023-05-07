@@ -1,0 +1,6 @@
+
+User-agent: *
+
+Disallow: /
+
+Sitemap: https://mukharomdev.github.io/mukharomdev/sitemap-index.xml
