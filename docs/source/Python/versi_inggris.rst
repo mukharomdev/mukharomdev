@@ -38,3 +38,9 @@ Github Repository
 Design Pattern
 
 - https://github.com/JakubVojvoda/design-patterns-python.git
+  
+
+GUI Tkinter
+------------------
+
+- https://tkdocs.com/tutorial/index.html
