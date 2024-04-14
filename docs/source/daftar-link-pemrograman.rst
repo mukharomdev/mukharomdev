@@ -35,4 +35,5 @@ Daftar link ini hasil kurasi saya selama belajar pemrograman,daripada terlupakan
    Perl/index
    VerConSystem/index
    Bash/index
+   Erlang/index
 
